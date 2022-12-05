@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mgrad_rt"
+  site-url: "https://robitsar.github.io/mgrad_rt"
+  description: "my microgra rt"
+  repo-branch: main
+  repo-url: "https://github.com/robitsar/mgrad_rt"
